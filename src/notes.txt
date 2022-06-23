@@ -1,0 +1,54 @@
+Template - functional components
+
+Hook - useState
+
+props -  how to send data from parent to child
+        {},[]," ", ()
+
+hook - useEffect(code, [])
+
+custom hook
+
+router
+
+useParams
+
+image insertion
+
+onchange event
+handdlesubmit
+prevent defaults
+
+
+fetch(requet,{})
+-->what is the process?   method: "POST"
+-->what type of data?     headers: "Content-Type":"./application.json"
+-->what data?             body: JSON.stringify(objName)
+
+useHistory
+-->history.go(1)
+-->history.push("/path")
+
+-->method: "DELETE"
+
+Link to='/'
+Link to='*'
+
+404 error component
+
+
+
+
+
+
+
+
+
+
+
+1) call the function from button
+2) fetch the entire movies array
+3) return json from response object in 1st then()
+4) accept json(movies) in 2nd then()
+5) iterrate  ecah movie object from movies array and compare movie objName
+6) once found push the path with same movie id

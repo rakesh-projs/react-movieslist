@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "movieName": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi",
+      "genere": "Action",
+      "director": "Prashant neel",
+      "rating": 9,
+      "story": "K.G.F: Chapter 1 is a 2018 Indian Kannada-language period action film[5] written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner of Hombale Films. It is the first of two installments in the series, followed by K.G.F: Chapter 2. The film features Yash as Rocky while debutant Ramachandra Raju features as Garuda. Anant Nag narrates the film, while Srinidhi Shetty, Vasishta N. Simha, Achyuth Kumar, and Malavika Avinash appear in supporting roles. Filmed on a budget of ₹80 crore, it was the most expensive Kannada film at the time of its release.[2] The film focuses on Rocky, a high-ranking assassin in Mumbai, who was born in poverty. After being offered the total control of Mumbai by his employer's boss, he disguises himself as a slave-laborer in the Narachi limestone mine (Kolar Gold Fields), aiming to assassinate Garuda, the future heir of Kolar Gold Fields.",
+      "poster": "./images/kgf.png",
+      "trailer": "https://www.youtube.com/embed/qXgF-iJ_ezE",
+      "id": 1
+    },
+    {
+      "movieName": "KGF 2",
+      "hero": "Yash",
+      "heroine": "Sreenidhi",
+      "genere": "Action",
+      "director": "Prashant neel",
+      "rating": 9.5,
+      "story": "K.G.F: Chapter 2 is a 2022 Indian Kannada-language period action film written and directed by Prashanth Neel, and produced by Vijay Kiragandur under the banner Hombale Films. The second instalment in a two-part series, it serves as a sequel to the 2018 film K.G.F: Chapter 1. The film stars Yash, Sanjay Dutt, Raveena Tandon, Srinidhi Shetty and Prakash Raj. It follows the assassin Rocky, who after establishing himself as the kingpin of the Kolar Gold Fields, must retain his supremacy over adversaries and government officials, while also coming to terms with his past.",
+      "id": 2,
+      "poster": "./images/kgf2.jpg",
+      "trailer": "https://www.youtube.com/embed/jQsE85cI384"
+    },
+    {
+      "movieName": "Charlie 777",
+      "hero": "Rakshith shetty",
+      "heroine": "Pummy",
+      "genere": "Drama Comedy",
+      "director": "Rishab",
+      "rating": 8,
+      "story": "The film's principal photography began in Mangalore on 8 June 2018, with Shetty joining the shoot after simultaneously working on the production of Avane Srimannarayana (2020).[20] Kiranraj chose to shoot the first schedule in Mangalore as the opening sequences since Charlie (the protagonist), who escapes from one place to another, finds himself in a fish market. As the scene needed an exclusive fish selling zone, which is not available anywhere in the state, which is why we chose Mangalore. The team shot a few sequences at Sakleshpur and then moved to Mysore and Bangalore, where Shetty joined the shooting schedule. In September 2018, it was revealed that portions with young Charlie had been completed, and the team needed to take a break, since Shetty planned to resume shooting for Avane Srimannarayana.",
+      "id": 3,
+      "poster": "./images/charlie777.jpg",
+      "trailer": "https://www.youtube.com/embed/REqFOV2A7sI"
+    },
+    {
+      "movieName": "Robert",
+      "hero": "Darshan",
+      "heroine": "Asha bhat",
+      "genere": "Action Drama",
+      "director": "ashb",
+      "rating": 7,
+      "story": "The name Robert is an ancient Germanic given name, from Proto-Germanic *Hrōþi-  and *berhta- bright (Hrōþiberhtaz).[1] Compare Old Dutch Robrecht and Old High German Hrodebert (a compound of Hruo fame, glory, honour, praise, renown and berht bright, light, shining). It is the second most frequently used given name of ancient Germanic origin. It is also in use as a surname. Another commonly used form of the name is Rupert.",
+      "id": 4,
+      "poster": "./images/robert.jpg",
+      "trailer": "https://youtube.com/embed/IBPdSqV2gjs"
+    },
+    {
+      "movieName": "Om",
+      "hero": "Shivanna",
+      "heroine": "Prema",
+      "genere": "Action Romantic",
+      "director": "Upendra",
+      "rating": 9,
+      "id": 5,
+      "poster": "./images/om.jpg",
+      "trailer": "https://youtube.com/embed/NsEtfdwEHZU",
+      "story": "Om, stylized as ॐ, is a 1995 Indian Kannada-language crime drama film written and directed by Upendra. The film was produced by Parvathamma Rajkumar under the production company Sri Vajreshwari Combines. The film stars Shiva Rajkumar and Prema with Srishanthi, G. V. Shivanand, Sadhu Kokila in supporting roles with real-life gangsters - Bekkina Kannu Rajendra, Tanveer, Korangu Krishna and Jedaralli Krishnappa - portraying the role of gangsters in a small but important portion of the movie."
+    },
+    {
+      "movieName": "A",
+      "hero": "Upendra",
+      "heroine": "Prema",
+      "genere": "Romantic Comedy",
+      "director": "Upendra",
+      "rating": 7,
+      "id": 6,
+      "poster": "./images/a.jpg",
+      "trailer": "https://youtube.com/embed/7TlqjncRpNE",
+      "story": "A is a 1998 Indian-Kannada romantic psychological thriller film written and directed by Upendra. It starred Upendra and Chandini as the lead couple.[2] It tells the love story between a film director and an actress which is narrated through multiple flashbacks within flashbacks and reverse screenplay. The film deals with dark truths of the film world like the casting couch. Due to the reverse screenplay, some audience members watched it multiple times to understand the story. The movie was an instant cult hit"
+    }
+  ]
+}
